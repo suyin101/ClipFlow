@@ -1,0 +1,47 @@
+# Local secrets
+config.json
+.env
+.env.*
+
+# Python/runtime
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated app data
+logs/
+cache/
+projects/
+outputs/
+outputs*/
+
+# Local business/history data
+视频号动态数据明细.csv
+
+# Generated media and archives
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.m4v
+*.flv
+*.webm
+*.wav
+*.mp3
+*.zip
+
+# Temporary diagnostics
+*.tmp.log
+server.tmp.*.log
+*_response.html
+cache_hit.html
+cache_seed.html
+delete_response.html
+regen_response.html
+upload_*response.html
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

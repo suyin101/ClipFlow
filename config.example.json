@@ -1,0 +1,8 @@
+{
+  "moonshot_api_key": "sk-your-kimi-api-key",
+  "kimi_model": "moonshot-v1-8k",
+  "whisper_model": "small",
+  "whisper_device": "cpu",
+  "whisper_compute_type": "int8",
+  "transcribe_language": "zh"
+}
